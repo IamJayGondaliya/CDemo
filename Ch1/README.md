@@ -7,3 +7,5 @@
 <u>**Output**</u> :
 
 ![Aim 1 Output](https://github.com/IamJayGondaliya/CDemo/blob/master/images/image1.png)
+
+<img src="https://github.com/IamJayGondaliya/CDemo/blob/master/images/image1.png" width="300px">
